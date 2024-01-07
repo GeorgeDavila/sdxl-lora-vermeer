@@ -10,12 +10,12 @@ Trigger word: TOK
 
 ## Lora Outputs
 
-"A TOK painting of a cat, rainbow background"
-![bas6](images/bas6.png)
+"a painting of a man wearing a VR headset, in the style of TOK"
+![ver1](images/ver1.png)
 
-"A TOK painting of a spaceship, rainbow background"
-![bas7](images/bas7.png)
+"a painting of a capybara in the style of TOK"
+![ver2](images/ver2.png)
 
-"A TOK painting of people dancing, pink background"
-![bas8](images/bas8.png)
+"A painting of an alien in the style of TOK"
+![ver3](images/ver3.png)
 
